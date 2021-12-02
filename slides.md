@@ -21,17 +21,38 @@ span {
 </style>
 
 ---
-layout: center
 ---
 
-# Intro
+# Introduction
+
+- Étude Teknowlogy Group (CNLL & Syntec Numérique) en 2019
+	- 80% des entreprises anticipaient une augmentation de l’utilisation
+	- croissance de 9% par année jusqu’en 2023 (en France)
+	- croissance moyenne du marché IT (global) : 4%
+  
+<br/>
+<br/>
+
+# Problématique 
+
+- Est-ce que les prédictions sur la croissance de l’open source faites en 2019 sont vérifiées aujourd'hui ? 
+- Quels sont les impacts du Covid-19 sur la manière dont les développeurs travaillent ? sur les outils utilisés ? sur la protection des données concernant la possible utilisation de l’open source ?
 
 <style>
 h1 {
-  margin-top: -51px;
   color: #1F2937;
 }
+li {
+  color: #4B5563;
+}
 </style>
+
+---
+layout: 3-images
+imageLeft: 'https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/git.png'
+imageTopRight: 'https://sli.dev/og-image.png'
+imageBottomRight: 'https://sli.dev/screenshots/cover.png'
+---
 
 ---
 layout: center
