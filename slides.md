@@ -113,7 +113,7 @@ li {
     margin-top: 50px;
     width: 500px;
     height: 350px;
-    background-image: url("./public/graph1.png");
+    background-image: url("https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/graph1.png");
     background-size: cover;
   }
 </style>
@@ -130,7 +130,7 @@ li {
     margin-top: 50px;
     width: 500px;
     height: 350px;
-    background-image: url("./public/graph2.png");
+    background-image: url("https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/graph2.png");
     background-size: cover;
   }
 </style>
@@ -147,7 +147,7 @@ li {
     margin-top: 50px;
     width: 750px;
     height: 350px;
-    background-image: url("./public/graph3.png");
+    background-image: url("https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/graph3.png");
     background-size: cover;
   }
 </style>
@@ -183,8 +183,8 @@ li {
 - Des entreprises assez jeunes et à effectifs réduits
 
 <div class="flex gap-14 mt-10">
-  <img src="/t1.png">
-  <img src="/t2.png">
+  <img src="https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/t1.png">
+  <img src="https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/t2.png">
 </div>
  
 <style>
@@ -209,8 +209,8 @@ li {
 - Dans la majorité, les dirigeants restent confiants et pensent embaucher au cours de cette année
 
 <div class="flex gap-14 mt-10">
-  <img src="/t3.png">
-  <img src="/t4.png">
+  <img src="https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/t3.png">
+  <img src="https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/t4.png">
 </div>
  
 <style>
