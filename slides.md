@@ -183,8 +183,8 @@ li {
 - Des entreprises assez jeunes et à effectifs réduits
 
 <div class="flex gap-14 mt-10">
-  <img src="public/t1.png">
-  <img src="public/t2.png">
+  <img src="/t1.png">
+  <img src="/t2.png">
 </div>
  
 <style>
@@ -209,8 +209,8 @@ li {
 - Dans la majorité, les dirigeants restent confiants et pensent embaucher au cours de cette année
 
 <div class="flex gap-14 mt-10">
-  <img src="public/t3.png">
-  <img src="public/t4.png">
+  <img src="/t3.png">
+  <img src="/t4.png">
 </div>
  
 <style>
