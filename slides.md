@@ -200,7 +200,7 @@ li {
 ---
 ---
 
-# État des lieux des entreprises suite à la pandémie
+# État des lieux des entreprises de l'open source suite à la pandémie
 
 - Des entreprises assez jeunes et à effectifs réduits
 
@@ -226,7 +226,7 @@ li {
 ---
 ---
 
-# État des lieux des entreprises suite à la pandémie
+# État des lieux des entreprises de l'open source suite à la pandémie
 
 - Dans la majorité, les dirigeants restent confiants et pensent embaucher au cours de cette année
 
