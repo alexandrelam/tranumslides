@@ -7,7 +7,7 @@ layout: intro
 
 <div class="absolute bottom-10">
   <span class="font-700">
-    Groupe 1 | Julie Lazes
+    Groupe 1 | BERNARD Thomas,  ILLIEN Antoine, LAM Alexandre,  LAMBERT Antoine, NGUYEN William
   </span>
 </div>
 
@@ -19,6 +19,15 @@ span {
   color: #4B5563;
 }
 </style>
+
+
+
+---
+layout: 3-images
+imageLeft: 'https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/git.png'
+imageTopRight: 'https://sli.dev/og-image.png'
+imageBottomRight: 'https://sli.dev/screenshots/cover.png'
+---
 
 ---
 ---
@@ -48,13 +57,6 @@ li {
 </style>
 
 ---
-layout: 3-images
-imageLeft: 'https://raw.githubusercontent.com/alexandrelam/tranumslides/main/public/git.png'
-imageTopRight: 'https://sli.dev/og-image.png'
-imageBottomRight: 'https://sli.dev/screenshots/cover.png'
----
-
----
 layout: center
 ---
 
@@ -62,7 +64,6 @@ layout: center
 
 <style>
 h1 {
-  margin-top: -51px;
   color: #1F2937;
 }
 </style>
